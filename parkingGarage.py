@@ -55,7 +55,7 @@ class Garage():
                 else:
                     print("Invalid answer, please try again!")
 
-
+print("testing")
 
                 
 
